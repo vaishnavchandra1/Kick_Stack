@@ -1,0 +1,33 @@
+{
+  "hero": {
+    "title": "AIR MAX 2026",
+    "subtitle": "THE NEXT GENERATION OF SNEAKER",
+    "buttonText": "EDIT SNEAKER DROP"
+  },
+  "products": [
+    {
+      "id": 1,
+      "name": "Nike Air Zoom Pegasus",
+      "price": "$180.00",
+      "image": "https://images.unsplash.com/photo-1542291026-7eec264c27ff?q=80&w=1000&auto=format&fit=crop"
+    },
+    {
+      "id": 2,
+      "name": "Adidas Ultraboost 5.0",
+      "price": "$190.00",
+      "image": "https://images.unsplash.com/photo-1587563871167-1ee9c731aefb?q=80&w=1000&auto=format&fit=crop"
+    },
+    {
+      "id": 3,
+      "name": "Puma RS-X Bold",
+      "price": "$110.00",
+      "image": "https://images.unsplash.com/photo-1608231387042-66d1773070a5?q=80&w=1000&auto=format&fit=crop"
+    },
+    {
+      "id": 4,
+      "name": "Jordan 1 Retro High",
+      "price": "$220.00",
+      "image": "https://images.unsplash.com/photo-1606107557195-0e29a4b5b4aa?auto=format&fit=crop&w=1200"
+    }
+  ]
+}
